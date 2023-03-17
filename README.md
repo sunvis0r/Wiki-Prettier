@@ -1,2 +1,2 @@
-# Wiki-Prettier
-Wiki syntax prettifier
+# Wiki Prettier
+Wiki syntax prettier
